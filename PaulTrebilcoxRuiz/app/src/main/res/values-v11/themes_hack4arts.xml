@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="hack4arts" parent="@style/_hack4arts"/>
+
+  <style name="_hack4arts" parent="Theme.AppCompat.Light">
+
+    <item name="android:editTextBackground">@drawable/hack4arts_edit_text_holo_light</item>
+
+    <item name="android:textColorHighlight">#9933b5e5</item>
+    <item name="android:textSelectHandleLeft">@drawable/hack4arts_text_select_handle_left</item>
+    <item name="android:textSelectHandleRight">@drawable/hack4arts_text_select_handle_right</item>
+    <item name="android:textSelectHandle">@drawable/hack4arts_text_select_handle_middle</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewhack4arts</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/hack4arts_btn_check_holo_light</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/hack4arts_btn_radio_holo_light</item>
+
+    <item name="android:buttonStyle">@style/Buttonhack4arts</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonhack4arts</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/Spinnerhack4arts</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarhack4arts</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarhack4arts</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarhack4arts</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBighack4arts</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallhack4arts</item>
+
+    <item name="android:buttonStyleToggle">@style/Togglehack4arts</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/hack4arts_list_selector_holo_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/hack4arts_activated_background_holo_light</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/hack4arts_fastscroll_thumb_holo</item>
+
+  </style>
+
+</resources>

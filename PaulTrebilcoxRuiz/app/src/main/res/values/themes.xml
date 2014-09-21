@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="hack4arts" parent="@style/_hack4arts"/>
+
+  <style name="_hack4arts" parent="Theme.AppCompat.Light">
+
+    <item name="android:editTextStyle">@style/EditTexthack4arts</item>
+
+    <item name="android:textColorHighlight">#9933b5e5</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewhack4arts</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxhack4arts</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonhack4arts</item>
+
+    <item name="android:buttonStyle">@style/Buttonhack4arts</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonhack4arts</item>
+
+    <item name="android:spinnerStyle">@style/Spinnerhack4arts</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemhack4arts</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarhack4arts</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarhack4arts</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarhack4arts</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBighack4arts</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallhack4arts</item>
+
+    <item name="android:buttonStyleToggle">@style/Togglehack4arts</item>
+
+    <item name="android:listViewStyle">@style/ListViewhack4arts</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewhack4arts.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemhack4arts</item>
+
+  </style>
+
+</resources>

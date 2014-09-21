@@ -10,6 +10,6 @@
     <string name="category_camera">Share a picture</string>
     <string name="collections_url">https://s3.amazonaws.com/lafayette-co-arts/lafayette-co-public-art.json</string>
     <string name="image_url">https://s3.amazonaws.com/lafayette-co-arts/images/%1$s</string>
-    <string name="public_api_android_key">AIzaSyD9hVJYObWinCcOz7sTcwcVLbQNXxPIbr8</string>
+    <string name="public_api_android_key"></string>
     <string name="hack4arts">Hack4Arts</string>
 </resources>
